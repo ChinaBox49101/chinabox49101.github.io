@@ -42,7 +42,7 @@ outputs:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
+  description: "分享中国国内社会的热点事件并讨论"
   author: Theme PaperMod
   # author: ["Me", "You"] # multiple authors
 
@@ -56,8 +56,24 @@ params:
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   ShowToc: true
-  # comments: false
   images: ["papermod-cover.png"]
+
+# 是否启用评论功能
+  comments: true
+  #评论设置
+  giscus:
+    repo: "ChinaBox49101/chinabox49101.github.io"
+    repo-id: "R_kgDONhFO5g"
+    category: "Announcements"
+    category-id: "DIC_kwDONhFO5s4CldKy"
+    mapping: "pathname"
+    strict: "0"
+    reactions-enabled: "1"
+    emit-metadata: "0"
+    input-position: "bottom"
+    theme: "preferred_color_scheme"
+    lang: "zh-CN"
+    crossorigin: "anonymous"
 
   profileMode:
     enabled: false
