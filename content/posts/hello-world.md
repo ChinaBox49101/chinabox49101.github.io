@@ -3,7 +3,7 @@ author: "BeiYu"
 title: "发文&评论 Mardown格式"
 date: "2022-01-16"
 description: "Guide to Hugo-PaperMod-Template"
-tags: ["emoji"]
+tags: []
 ShowToc: false
 math: true
 ShowBreadCrumbs: false
