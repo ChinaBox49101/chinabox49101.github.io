@@ -1,7 +1,7 @@
 baseURL: "https://chinabox49101.github.io/"
 title: 中国社会热点网
 pagination.pagerSize: 5
-theme: hugo-PaperMod
+theme: PaperMod
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -39,6 +39,7 @@ languages:
 outputs:
   home:
     - HTML
+    - RSS
     - JSON
 
 params:
