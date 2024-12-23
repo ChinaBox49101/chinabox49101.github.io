@@ -39,7 +39,6 @@ languages:
 outputs:
   home:
     - HTML
-    - RSS
     - JSON
 
 params:
