@@ -45,7 +45,7 @@ outputs:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   description: "分享中国国内社会的热点事件并讨论"
-  author: Theme PaperMod
+  author: Me
   # author: ["Me", "You"] # multiple authors
 
   defaultTheme: auto
@@ -79,7 +79,7 @@ params:
 
   profileMode:
     enabled: false
-    title: PaperMod
+    title: Me
     imageUrl: "#"
     imageTitle: my image
     # imageWidth: 120
@@ -91,26 +91,26 @@ params:
         url: tags
 
   homeInfoParams:
-    Title: "PaperMod"
+    Title: "网站声明"
     Content: >
-      Welcome to demo of hugo's theme PaperMod.
+      本网站为开放式匿名评论网站，欢迎**关注、转发、记录、补充**
 
-      - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
+      - **推动司法独立，民主建设** 是我们共同的目标
 
-      - Do give a 🌟 on Github !
+      - 若有案件热点事件，请联系chinabox49101@gmail.com（请尽量附上时间、地址、人物、经过）
 
-      - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
+      - 最新网址欢迎关注下方Github仓库
 
   socialIcons:
     - name: github
-      url: "https://github.com/adityatelange/hugo-PaperMod"
-    - name: KoFi
-      url: "https://ko-fi.com/adityatelange"
+      url: "https://github.com/ChinaBox49101/chinabox49101.github.io/"
+    - name: Telegram
+      url: "https://t.me/jiangxilyx"
     - name: RsS
       url: "index.xml"
 
   editPost:
-    URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
+    URL: "https://github.com/ChinaBox49101/chinabox49101.github.io/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
