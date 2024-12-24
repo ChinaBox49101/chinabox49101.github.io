@@ -99,13 +99,14 @@ params:
 
       - 若有案件热点事件，请联系chinabox49101@gmail.com（请尽量附上时间、地址、人物、经过）
 
-      - 最新网址欢迎关注下方Github仓库
+      - 欢迎关注下方Github仓库
+      - 或者加入电报群了解分享更多信息
 
   socialIcons:
     - name: github
       url: "https://github.com/ChinaBox49101/chinabox49101.github.io/"
     - name: Telegram
-      url: "https://t.me/jiangxilyx"
+      url: "https://t.me/chinabox49101"
     - name: RsS
       url: "index.xml"
 

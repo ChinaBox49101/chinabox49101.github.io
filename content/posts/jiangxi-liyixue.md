@@ -11,8 +11,6 @@ ShowBreadCrumbs: false
 
 [维基百科-李宜雪事件](https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%AE%9C%E9%9B%AA%E4%BA%8B%E4%BB%B6)
 
-若有其他社会热点，请联系chinabox49101@gmail.com
-
 ### 起因
 
 李宜雪，自称于2022年4月14日遭派出所辅警猥亵，并在向警方指控后被送至江西省精神病院强制入院56日。
